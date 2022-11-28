@@ -1,12 +1,6 @@
 package anon2;
 
-//import java.util.Random;
 import java.util.Scanner;
-/*menu con while opciones
- * si es 0 sales
- * si es 1 reemplazas la matriz solo char | visualizar
- * si es 2  
-*/
 
 public class anon2 {
     public static Scanner tc= new Scanner(System.in);
