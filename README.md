@@ -1,2 +1,2 @@
-# Java
+# Java Language
 Work Java Projects
