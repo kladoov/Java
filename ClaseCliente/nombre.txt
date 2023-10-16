@@ -1,9 +1,0 @@
-
-ID: 1
-NOMBRE: asas
-DIRECCION: 2add
-TELEFONO: 22
-ID: 2
-NOMBRE: dsdsds
-DIRECCION: sddsd
-TELEFONO: 222
