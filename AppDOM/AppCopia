@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modulos>
+    
+    <clase nombre="1DAM">
+        	
+        <asignatura1>Entorno de desarrollo</asignatura1>
+        	
+        <asignatura2>Programacion</asignatura2>
+        	
+        <asignatura3>Lenguaje de marcas</asignatura3>
+        	
+        <horasCurso>H180</horasCurso>
+        
+    </clase>
+    
+    <clase nombre="2DAM">
+        	
+        <asignatura1>Desarrollo de interfaces</asignatura1>
+        	
+        <asignatura2>Programacion de procesos</asignatura2>
+        	
+        <asignatura3>Acceso a datos</asignatura3>
+        	
+        <horasCurso>H240</horasCurso>
+        
+    </clase>
+    
+    <clase nombre="1SMR">
+        	
+        <asignatura1>Aplicaciones web</asignatura1>
+        	
+        <asignatura2>Sistemas operativos monopuestos</asignatura2>
+        	
+        <asignatura3>Montaje</asignatura3>
+        	
+        <horasCurso>H190</horasCurso>
+        
+    </clase>
+    
+    <clase nombre="2SMR">
+        	
+        <asignatura1>Administracion de redes</asignatura1>
+        	
+        <asignatura2>Servidores</asignatura2>
+        	
+        <asignatura3>Empresa iniciativa y emprendedora</asignatura3>
+        	
+        <horasCurso>H230.5</horasCurso>
+        
+    </clase>
+    
+    <clase nombre="2BACHB">
+        <asigantura1>Latin</asigantura1>
+        <asignatura2>geografia</asignatura2>
+        <asignatura3>audiovisuales</asignatura3>
+        <horas>180.0</horas>
+    </clase>
+</modulos>
